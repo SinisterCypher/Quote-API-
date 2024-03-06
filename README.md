@@ -26,11 +26,11 @@ This will start the server, and you can interact with it at http://localhost:400
 
 ## API Endpoints
 
->GET /api/quotes/random: Returns a random quote.
->GET /api/quotes: Returns all quotes, or quotes from a specified person.
->POST /api/quotes: Adds a new quote to the server.
->PUT /api/quotes/:id: Updates a quote on the server.
->DELETE /api/quotes/:id: Deletes a quote from the server.
+GET /api/quotes/random: Returns a random quote.
+GET /api/quotes: Returns all quotes, or quotes from a specified person.
+POST /api/quotes: Adds a new quote to the server.
+PUT /api/quotes/:id: Updates a quote on the server.
+DELETE /api/quotes/:id: Deletes a quote from the server.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
