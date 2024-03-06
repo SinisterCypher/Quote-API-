@@ -6,13 +6,6 @@ This project is a simple Express server that serves quotes realted to Computer S
 
 - Express: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 
-## Files
-
-- server.js: This is the main file where the Express server is set up.
-- data.js: This file contains an array of quotes that the server can serve.
-- utils.js: This file contains utility functions that are used in server.js.
-- public/: This directory contains the static files that the server serves.
-
 ## Usage
 
 To run this project, you will need to add the following line to your command line:
